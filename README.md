@@ -205,11 +205,9 @@ A practical engineering framework for integrating meteorological variables, temp
 
 ## GitHub Stats
 
-> Replace `YOUR_GITHUB_USERNAME` with the actual GitHub username.
-
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" alt="Hitesh Acharya GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&langs_count=6" alt="Hitesh Acharya Top Languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=hiteshmacharya&show_icons=true&theme=default" alt="Hitesh Acharya GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshmacharya&layout=compact&theme=default&langs_count=6" alt="Hitesh Acharya Top Languages" />
 </div>
 
 ---
